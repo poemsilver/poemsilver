@@ -11,9 +11,7 @@
 
 <div align="center" style="text-align:center">
 
-[![Tistory Name Badge](https://tistory-readme-stats.vercel.app/api/badge?name=poetrysilver99)](https://github.com/MoonJuhan/tistory-readme-stats)
-
-[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=poetrysilver99)](https://github.com/MoonJuhan/tistory-readme-stats)
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=poetrysilver99)](https://poetrysilver99.tistory.com/4)
 <br>
 <br>
 
