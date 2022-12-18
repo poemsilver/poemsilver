@@ -2,6 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9266CC,100:9266CC&&height=210&section=header&text=Si%20Eun%20Github!&fontSize=80&fontColor=ffffff" />	
   
 # 🎺 SNS 🎺
+<a href="https://velog.io/@poemsilver99"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/><a href="https://velog.io/@poemsilver99">
 <a href="https://poetrysilver99.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/><a href="https://poetrysilver99.tistory.com/">
 <a href="https://github.com/poemsilver"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <a href="https://github.com/poemsilver"> 	
 <a href="https://www.instagram.com/poemsilver99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=GitHub&logoColor=white"/><a href="https://www.instagram.com/poemsilver99"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
