@@ -11,12 +11,14 @@
 <h3 align="center">✨ recent my post ✨</h3>
 
 <div align="center" style="text-align:center">
+	
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=poemsilver99)](https://velog.io/@poemsilver99)
 
 [![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=poetrysilver99)](https://poetrysilver99.tistory.com/4)
 <br>
 <br>
 
-# 🎨 Teck Stack 🎨
+# 🎨 Tech Stack 🎨
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white"/> 
 <br>
