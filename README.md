@@ -31,5 +31,17 @@
 <br>
 <br>
 
+# 🖌 Patent 🖌
+	스쿨존 내에서의 어린이 교통사고 방지 통합 시스템
+	CHILDREN TRAFFIC ACCIDENT PREVENTION INTEGRATED SYSTEM IN SCHOOL ZONE
+<br>
+
+🫱 [등록 번호 / 일자] 1023077430000 (2021.09.27) 🫲
+<br>
+
+👀 See my respository ***'CHILDREN-TRAFFIC-ACCIDENT-PREVENTION-INTEGRATED-SYSTEM-IN-SCHOOL-ZONE'***
+
+<br>
+	
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poemsilver)](https://github.com/poemsilver/github-readme-stats)
 
