@@ -31,6 +31,8 @@
 <br>
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poemsilver&layout=compact&theme=buefy)
+	
 # 🖌 Patent 🖌
 	스쿨존 내에서의 어린이 교통사고 방지 통합 시스템
 	CHILDREN TRAFFIC ACCIDENT PREVENTION INTEGRATED SYSTEM IN SCHOOL ZONE
@@ -43,5 +45,4 @@
 
 <br>
 	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poemsilver)](https://github.com/poemsilver/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poemsilver&show_icons=true&theme=buefy)
